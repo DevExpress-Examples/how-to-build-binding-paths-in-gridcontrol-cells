@@ -56,3 +56,7 @@ The bindings we used in this example work as follows.
     </Trigger>
 </Style.Triggers>
 ```
+
+**See also:**
+
+[How to build binding paths in GridControl rows](https://github.com/DevExpress-Examples/how-to-build-binding-paths-in-gridcontrol-rows)
