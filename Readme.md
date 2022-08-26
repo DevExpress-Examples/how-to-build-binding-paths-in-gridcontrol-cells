@@ -64,6 +64,11 @@ You can also use the [CellToolTipBinding](https://docs.devexpress.com/WPF/DevExp
 </Style.Triggers>
 ```
 
+## Files to Look at
+
+* [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
+
 ## Documentation
 
 * [EditGridCellData](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.EditGridCellData)
