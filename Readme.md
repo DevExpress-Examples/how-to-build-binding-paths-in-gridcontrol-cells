@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/65009440/186659717-090cf737-f4b1-44fb-91fe-1f1d1fb688ef.png)
 
-Cell elements contain [EditGridCellData](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.EditGridCellData) objects in their [DataContext](https://docs.microsoft.com/en-us/dotnet/api/system.windows.frameworkelement.datacontext).
+Cell elements contain [EditGridCellData](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.EditGridCellData) objects in their `DataContext`.
 Use the following binding paths to access cell values, columns, and ViewModel properties:
 
 * `Value` - access the current cell value;
